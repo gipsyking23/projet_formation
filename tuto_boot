@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>tutoboot</title>
+
+    <link rel="stylesheet" href="/home/cheick/projet_ls/bootstrap/css/bootstrap.min.css">
+  </head>
+  <body>
+    <nav class="navbar navbar-default">
+<div class="container-fluid">
+  <div class="navbar-header">
+    <a class="navbar-brand" href="#">
+      <img alt="Brand" src="...">
+    </a>
+  </div>
+</div>
+</nav>
+
+
+
+
+
+      <div class="container-fuild">
+        <div class="row-fuild">
+            <div class="page-header">
+                 <h1>LE SCENARIO   <small>en cours d'ecriture</small><h1>
+
+
+            </div>
+
+            <article class="col-md-12">
+              <h1> la vie revée</h1>
+              <a class="btn btn-primary btn-lg">en savoir plus</a>
+                    <a class="btn btn-danger btn-xs disabled">en savoir plus</a>
+              <p class="lead text-center"><small>Lorem ipsum dolor </small> sit amet, consectetur adipiscing elit. Aliquam lectus metus, semper sit amet suscipit <strong> vitae, volutpat sed sem. In a feugiat risus. </strong> uisque eleifend, <abbr title="on dit quoi réaliser quoi manger">odio</abbr> at venenatis placerat, enim velit aliquet arcu, ac efficitur magna enim aliquet metus. Quisque volutpat blandit lorem. Nunc semper non diam eget cursus. Nunc vitae enim quam. Morbi porta facilisis ipsum ac faucibus. Ut cursus porta sapien, in cursus mi volutpat eget. Curabitur diam ligula, maximus eu justo a, dapibus suscipit ex.
+              </p>
+
+              <blockquote class="pull-right">
+                <p>"on te dit quoi réaliser cogno"<p>
+                  <small>Scarface le remix</small>
+
+              </blockquote>
+             </article>
+           </div>
+         </div>
+<div class="container-fluid">
+    <div class="row-fluid pull-left">
+      <dl class="list-unstyled dl-horizontal">
+        <dt>chat</dt>
+        <dd>miaou</dd>
+        <dt>chien</dt>
+        <dd>ouaf</dd>
+        <dt>ane</dt>
+        <dd>hi han</dd>
+
+      </dl>
+
+    </div>
+
+</div>
+
+ <div class="container-fluid">
+   <div class="row-fuild">
+     <div class="col-lg-6">6 colonnes
+       <div class="row">
+         <div class="col-lg-4">4colonnes
+         </div>
+           <div class="col-lg-4 col-lg-offset-4">4 colonnes
+           </div>
+         </div>
+       </div>
+             <div class="col-lg-6">6 colonnes
+               <div class="row">
+                 <div class="col-lg-4">4colonnes
+                </div>
+                   <div class="col-lg-8">8 colonnes</div>
+                 </div>
+               </div>
+             </div>
+ </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- jQuery -->
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+   <!-- javascript -->
+   <script src="/home/cheick/projet_ls/bootstrap/js/bootstrap.min.js"></script>
+  </body>
+</html>
